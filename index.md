@@ -1,6 +1,8 @@
 **Merlyn M Shelley, B.E.(ECE).,Software Technical Writer**
 
-**SKILLS** I am a self-motivated, software documentation engineer. I have been into this technical communication industry for about 4 years as an independent freelance professional. I have the rich experience in developing a SEO content and publishing Kindle ebooks.
+**SKILLS** 
+
+I am a self-motivated, software documentation engineer. I have been into this technical communication industry for about 4 years as an independent freelance professional. I have the rich experience in developing a SEO content and publishing Kindle ebooks.
 
 You can see my proven abilities here,
 

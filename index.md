@@ -6,12 +6,14 @@ I am a self-motivated, software documentation engineer. I have been into this te
 
 You can see my proven abilities here,
 
-[DazeInfo](https://dazeinfo.com/author/merlynm/#) -
-https://auth.geeksforgeeks.org/user/MerlynShelley/articles -https://www.techleer.com/users/Merlyn_Shelley/ -https://www.geeksgyaan.com/author/merlyn
+[DazeInfo - 33 articles Live](https://dazeinfo.com/author/merlynm/#) 
+[Geeks For Geeks - 39 articles Live](https://auth.geeksforgeeks.org/user/MerlynShelley/articles)
+[TechLeet - 10+ articles Live, (Ongoing Project)](https://www.techleer.com/users/Merlyn_Shelley/) 
+[Geeks Gyaan - 10 articles Live](https://www.geeksgyaan.com/author/merlyn)
 
 I am an **Amazon and Goodreads Author**. Please check here,
 
--www.amazon.com/author/merlynshelley
+[Amazon Kindle eBook](www.amazon.com/author/merlynshelley)
 
 I am continuously updating the industry ready software technical writing skills to stay competent in the industry. I am adequately skilled in web technologies like XML, HTML5, CSS3, JavaScript, and Python3. I am quite fluent in my skills on Software & API documentation, Content Marketing, UI/UX research & Development, Software product documentation and SEO Content Strategy. So far I was a freelance professional, now I am looking for a full-time position where I can apply my skill set to the growth & prosperity of the business.
 

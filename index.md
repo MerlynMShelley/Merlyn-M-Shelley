@@ -53,14 +53,23 @@ Contributed technical articles on the website and corporate client companies. So
 Contributed technical writing projects on various niches like digital marketing concepts, Software product documentation.
 
 **Tools Used for Freelance Technical writing** 
+
 *Snagit for screenshot capturing 
+
 *Google drawing, MS Paint, draw.io for establishing ideas with pictorial representations. 
+
 *Adobe Spark and Canvas for feature image purposes in Wordpress CMS 
-*Experienced with Elementor, Yoast SEO plugins for higher Google SERPs. 
+
+*Experienced with Wordpress Content Management System,Elementor, Yoast SEO plugins for higher Google SERPs. 
+
 *I got a Grammarly premium tool to have a clean check on voice, tone, punctuation and grammar. 
+
 *Copyscape for checking the uniqueness of the project. 
-*Google Docs, Sublime Text editor, for documentation and coding purposes. 
+
+*Google Cloud Platform, Sublime Text editor, for documentation and coding purposes. 
+
 *Following Microsoft manual of style in project documentation. 
+
 *_**Github Flavoured Markdown, reStructuredTEXT,Sphinx,Read The Docs**_
 
 Free code camp, GitHub, Scrimba,Codepen and Heroku, Online Projects - Web Development September 2016 - Present
@@ -80,16 +89,20 @@ Experience in deploying static web pages, Reactapp on Github and Heroku.
 **Core Skills**
 
 1.Search Engine Optimization 
+
 2.Data and Web Analytics
+
 3.Sphinx, GitHub Markdown 
-3.MySQL 
-4.Python 3.9, Pandas DataFrames
+
+4.MySQL 
+
+5.Python 3.9, Pandas DataFrames
 
 **EDUCATION**
 
 *Jayaram College of Engineering and Technology, Trichy, Anna University Chennai.* 
  
-**Bachelor of Engineering (B.E).,(Full-time) 2008-2012. **
+**Bachelor of Engineering (B.E).,(Full-time) 2008-2012.**
 
 September 2008 - April 2012, Tiruchirapalli, Tamilnadu. Pursued Electronics and Communication Engineering (ECE) and secured **8.41 CGPA With First Class.**
 

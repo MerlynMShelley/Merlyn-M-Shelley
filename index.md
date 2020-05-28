@@ -2,7 +2,7 @@
 
 **SKILLS** 
 
-I am a self-motivated, software documentation engineer. I have been into this technical communication industry for about 4 years as an independent freelance professional. I have the rich experience in developing a SEO content and publishing Kindle ebooks.
+I am a self-motivated software documentation engineer. I have been into this technical communication industry for about 4 years as an independent freelance professional. I have rich experience in developing SEO content and publishing Kindle ebooks.
 
 You can see my proven abilities here,
 
@@ -18,19 +18,19 @@ I am an **Amazon and Goodreads Author**. Please check here,
 
 [Amazon Kindle eBook](www.amazon.com/author/merlynshelley)
 
-I am continuously updating the industry ready software technical writing skills to stay competent in the industry. I am adequately skilled in web technologies like XML, HTML5, CSS3, JavaScript, and Python3. I am quite fluent in my skills on Software & API documentation, Content Marketing, UI/UX research & Development, Software product documentation and SEO Content Strategy. So far I was a freelance professional, now I am looking for a full-time position where I can apply my skill set to the growth & prosperity of the business.
+I am continuously updating the industry ready software technical writing skills to stay competitive in the industry. I am adequately skilled in web technologies like XML, HTML5, CSS3, JavaScript, and Python3. I am quite fluent in my skills on Software & API documentation, Content Marketing, UI/UX research & Development, Software product documentation and SEO Content Strategy. So far, I was a freelance professional; now, I am looking for a full-time position where I can apply my skill set to the growth & prosperity of the business.
 
 **EXPERIENCE**
 
 **1.TechLeer, Technical Writer(Freelance)**
 
-I am contributing tech articles on data science,deep learning and artficial intelligence concepts.
+I am contributing tech articles on data science, deep learning and artificial intelligence concepts.
 
 **2.GeeksforGeeks,Technical Writer(Freelance)**
 
 October 2018 - PRESENT
 
-Contributing compelling technical and programming articles for the website and blog. Working on Wordpress CMS, XML, DITA, SGML. Code the illustration problems with Python3, Java, Javascript, HTML5, CSS3, PHP, NodeJs, ReactJs. Continuously for two years, I have participated in the Technical Scripter event and was awarded with GeeksforGeeks goodies. Here is the link to my published byline articles on GeeksforGeeks portal, https://auth.geeksforgeeks.org/user/MerlynShelley/articles
+Contributing compelling technical and programming articles for the website and blog. Working on Wordpress CMS, XML, DITA, SGML. Code the illustration problems with Python3, Java, Javascript, HTML5, CSS3, PHP, NodeJs, ReactJs. Continuously for two years, I have participated in the Technical Scripter event and was awarded GeeksforGeeks goodies. Here is the link to my published byline articles on GeeksforGeeks portal, https://auth.geeksforgeeks.org/user/MerlynShelley/articles
 
 **3.Dazeinfo media and research, - Technical Writer & Industry Analyst (Freelance)**
 
@@ -60,7 +60,7 @@ Contributed technical writing projects on various niches like digital marketing 
 
 *Adobe Spark and Canvas for feature image purposes in Wordpress CMS 
 
-*Experienced with Wordpress Content Management System,Elementor, Yoast SEO plugins for higher Google SERPs. 
+*Experienced with Wordpress Content Management System, Elementor, Yoast SEO plugins for higher Google SERPs. 
 
 *I got a Grammarly premium tool to have a clean check on voice, tone, punctuation and grammar. 
 
@@ -68,11 +68,11 @@ Contributed technical writing projects on various niches like digital marketing 
 
 *Google Cloud Platform, Sublime Text editor, for documentation and coding purposes. 
 
-*Following Microsoft manual of style in project documentation. 
+*Following Microsoft manual of style in the project documentation. 
 
-*_**Github Flavoured Markdown, reStructuredTEXT,Sphinx,Read The Docs**_
+*_**Github Flavoured Markdown, reStructuredTEXT, Sphinx, Read The Docs**_
 
-Free code camp, GitHub, Scrimba,Codepen and Heroku, Online Projects - Web Development September 2016 - Present
+Free code camp, GitHub, Scrimba, Codepen and Heroku, Online Projects - Web Development September 2016 - Present
 
 Did CODING projects on personal interest and updated the codes on free code camp, Github and deployed in Heroku. Programming languages used HTML5, CSS3, JavaScript, ReactJs, NodeJs and Python3.
 

@@ -6,7 +6,8 @@ I am a self-motivated, software documentation engineer. I have been into this te
 
 You can see my proven abilities here,
 
--https://dazeinfo.com/author/merlynm/# -https://auth.geeksforgeeks.org/user/MerlynShelley/articles -https://www.techleer.com/users/Merlyn_Shelley/ -https://www.geeksgyaan.com/author/merlyn
+[DazeInfo](https://dazeinfo.com/author/merlynm/#) -
+https://auth.geeksforgeeks.org/user/MerlynShelley/articles -https://www.techleer.com/users/Merlyn_Shelley/ -https://www.geeksgyaan.com/author/merlyn
 
 I am an **Amazon and Goodreads Author**. Please check here,
 

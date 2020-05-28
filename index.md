@@ -69,13 +69,13 @@ Did CODING projects on personal interest and updated the codes on free code camp
 
 Experience in deploying static web pages, Reactapp on Github and Heroku.
 
-[GitHub] (https://github.com/MerlynMShelley)
+[GitHub](https://github.com/MerlynMShelley)
 
-[CODEPEN] (https://codepen.io/MerlynShelley/pen/OJPYNGv)
+[CODEPEN](https://codepen.io/MerlynShelley/pen/OJPYNGv)
 
-[HEROKU] (https://dashboard.heroku.com/apps/volopayproject/activity/builds/a755c95c-5974-4b55-b334-23e4ccacccb9)
+[HEROKU](https://dashboard.heroku.com/apps/volopayproject/activity/builds/a755c95c-5974-4b55-b334-23e4ccacccb9)
 
-[FREECODECAMP] (https://www.freecodecamp.org/fcc2d08e582-ac86-4a52-ac72-0a6fabad608d)
+[FREECODECAMP](https://www.freecodecamp.org/fcc2d08e582-ac86-4a52-ac72-0a6fabad608d)
 
 **Core Skills**
 
@@ -89,12 +89,12 @@ Experience in deploying static web pages, Reactapp on Github and Heroku.
 
 *Jayaram College of Engineering and Technology, Trichy, Anna University Chennai.* 
  
-*Bachelor of Engineering (B.E).,(Full-time) 2008-2012. 
+**Bachelor of Engineering (B.E).,(Full-time) 2008-2012. **
 
 September 2008 - April 2012, Tiruchirapalli, Tamilnadu. Pursued Electronics and Communication Engineering (ECE) and secured **8.41 CGPA With First Class.**
 
 *St.John's Vestry Anglo Indian Hr.Sec School, Tiruchirapalli.*
 
-*Higher Secondary Certificate and Anglo Indian School leaving Certificate Primary Education - Higher Secondary Education. Secure **86% in Board exam results with Excellent proficiency in academic records. English as an intermediate Language.**
+Higher Secondary Certificate and Anglo Indian School leaving Certificate Primary Education - Higher Secondary Education. Secure **86% in Board exam results with Excellent proficiency in academic records. English as an intermediate Language.**
 
 Member in Technical Societies. IEEE Member(2008-2013) IETE Member(2008-2013)

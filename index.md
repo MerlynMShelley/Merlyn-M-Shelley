@@ -7,8 +7,11 @@ I am a self-motivated, software documentation engineer. I have been into this te
 You can see my proven abilities here,
 
 1.[DazeInfo - 33 articles Live](https://dazeinfo.com/author/merlynm/#) 
+
 2.[Geeks For Geeks - 39 articles Live](https://auth.geeksforgeeks.org/user/MerlynShelley/articles)
+
 3.[TechLeer - 10+ articles Live, (Ongoing Project)](https://www.techleer.com/users/Merlyn_Shelley/) 
+
 4.[Geeks Gyaan - 10 articles Live](https://www.geeksgyaan.com/author/merlyn)
 
 I am an **Amazon and Goodreads Author**. Please check here,

@@ -16,7 +16,7 @@ You can see my proven abilities here,
 
 I am an **Amazon and Goodreads Author**. Please check here,
 
-[Amazon Kindle eBooks](https://www.amazon.com/Merlyn-Shelley/e/B084ZQPTK9y)
+[My Amazon Kindle eBooks](https://www.amazon.com/Merlyn-Shelley/e/B084ZQPTK9y)
 
 I am continuously updating the industry ready software technical writing skills to stay competitive in the industry. I am adequately skilled in web technologies like XML, HTML5, CSS3, JavaScript, and Python3. I am quite fluent in my skills on Software & API documentation, Content Marketing, UI/UX research & Development, Software product documentation and SEO Content Strategy. So far, I was a freelance professional; now, I am looking for a full-time position where I can apply my skill set to the growth & prosperity of the business.
 

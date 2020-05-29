@@ -22,25 +22,25 @@ I am continuously updating the industry ready software technical writing skills 
 
 **EXPERIENCE**
 
-**1.TechLeer, Technical Writer(Freelance)**
+**1.TechLeer, Malaysia - Technical Writer(Freelance)- Currently pursuing**  
 
-I am contributing tech articles on data science, deep learning and artificial intelligence concepts.
+Contributing tech articles on data science, deep learning and artificial intelligence concepts.
 
-**2.GeeksforGeeks,Technical Writer(Freelance)**
+**2.GeeksforGeeks, Noida - Technical Writer(Freelance)**
 
 October 2018 - PRESENT
 
 Contributing compelling technical and programming articles for the website and blog. Working on Wordpress CMS, XML, DITA, SGML. Code the illustration problems with Python3, Java, Javascript, HTML5, CSS3, PHP, NodeJs, ReactJs. Continuously for two years, I have participated in the Technical Scripter event and was awarded GeeksforGeeks goodies. Here is the link to my published byline articles on GeeksforGeeks portal, https://auth.geeksforgeeks.org/user/MerlynShelley/articles
 
-**3.Dazeinfo media and research, - Technical Writer & Industry Analyst (Freelance)**
+**3.Dazeinfo media and research, Bangalore - Technical Writer & Industry Analyst (Freelance)**
 
 In-depth research on the trending technology market scenario and presented SEO data reports on the website. Analyse and curate the data of various technology news articles, evaluate the facts and published online Worked on Wordpress CMS Here is the link to my published byline articles, https://dazeinfo.com/author/merlynm/
 
-**4.Brains Media Solutions,  - Technical Writer(Freelance)**
+**4.Brains Media Solutions, Belgavi  - Technical Writer(Freelance)**
 
 Presented blog content, web content, software documentation projects and product description projects.
 
-**5.Star Agile, - Technical Writer(Freelance)**
+**5.Star Agile, Bangalore - Technical Writer(Freelance)**
 
 Contributed technical SEO writing, Blog writing and Copywriting based on SCRUM, AGILE, SAFe and LEAN methodologies.
 
@@ -51,6 +51,19 @@ Contributed technical articles on the website and corporate client companies. So
 **7.DM Linked, New Delhi, - Technical Writer(Freelance)**
 
 Contributed technical writing projects on various niches like digital marketing concepts, Software product documentation.
+
+**8.Huntertech Ventures, Bangalore - Technical Writer(Freelance)**
+
+Contributed technical SEO content for the website and blog.
+
+**9.Undigit Media Solutions, Bangalore - Technical Writer(Freelance)**
+
+Contribute copy writing and promotional content for the digital marketing industry and it's clients.
+
+**10.Geeks Gyaan, Mumbai - Technical Writer(Freelance)**
+
+Contributed How-to guides, trouble shooting guides and technical news content for the blog.
+
 
 **Tools Used for Freelance Technical writing** 
 

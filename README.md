@@ -4,10 +4,7 @@
 
 
 ###**SKILLS**###
-I am a self-motivated, software documentation engineer.
-I have been into this technical communication industry for over 4 years as an independent freelance professional and 6 years as a full-time Technical Writer. 
-I have the rich experience in developing an SEO content and publishing Kindle ebooks. 
-
+I am a self-motivated, software documentation engineer. I have been in this technical communication industry for over 4 years as an independent freelance professional and 6 years as a full-time Technical Writer. I have rich experience in developing SEO content and publishing Kindle ebooks. You can see my proven abilities here,
 You can see my proven abilities here,  
 
 ## **Live Featured Web Publications**

@@ -10,10 +10,40 @@ I have the rich experience in developing an SEO content and publishing Kindle eb
 
 You can see my proven abilities here,  
 
--https://dazeinfo.com/author/merlynm/#
--https://auth.geeksforgeeks.org/user/MerlynShelley/articles
--https://www.techleer.com/users/Merlyn_Shelley/
--https://www.geeksgyaan.com/author/merlyn
+## **Live Featured Web Publications**
+
+Here are some of my live featured web publications for your review and consideration:
+
+🔗 [Packt BIPro](https://packtbusinessintelligencepro.substack.com/) [65 Editions]
+
+🔗 [Packt DataPro](https://packtdatapro1.substack.com/) [102 Editions]
+
+🔗 [Packt SecPro](https://security.packt.com/linux-security-hardening/) [Explainer Post]
+
+🔗 [Squadcast](https://www.squadcast.com/blog-authors/merlyn-shelley) [7 Product Blogs]
+  
+🔗 [Squadcast Web Archive](https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley) [9 Blogs]
+
+🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/MerlynShelley/articles) [39 Posts]
+
+🔗 [DazeInfo](https://dazeinfo.com/author/merlynm/#) [60 posts]
+
+🔗 [DZone](https://dzone.com/users/4497573/merlyn-shelley.html) [Explainer Post]
+
+🔗 [Expersight](https://expersight.com/author/merlyn) [2 Tool Comparison Listicles]
+
+🔗 [GeeksGyan](https://www.geeksgyaan.com/author/merlyn) [10 Blog Posts]
+
+🔗 [Qandle](https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-one-on-one-meetings/) [Explainer Post]
+
+🔗 [Amazon Author Central](https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000) [12 Ebooks]
+
+🔗 [TechLeer](https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/) [11 Articles]
+
+🔗 [Data Analytics Portfolio Projects on Maven](https://mavenanalytics.io/profile/Merlyn-Mark-Shelley/201265881)
+
+🔗 [Data Visualization Projects on Tableau Public](https://public.tableau.com/app/profile/merlyn.shelley/vizzes)
+
 
 I am an **Amazon and Goodreads Author**.
 Please check here, 
@@ -26,12 +56,24 @@ I am adequately skilled in web technologies like XML, HTML5, CSS3, JavaScript, a
 
 ###**EXPERIENCE**###
 
+####Editor in Chief @Packt Publishing Ltd.####
+
+Sep 2021 - PRESENT
+
+Curating and publishing weekly newsletters focused on data science, machine learning, and business intelligence tools and techniques. Additionally, overseeing newsletter monetization through sponsorships.
+
+####Technical Content Writer @Squadcast Labs Pvt Ltd####
+
+Dec 2020 - Sep 2021
+
+Contributed to technical content, including product documentation, blogs, and marketing materials, focused on site reliability engineering and incident management platform concepts.
+
 ####TechLeer, Technical Writer(Freelance)####
-I am contributing tech articles on data science,deep learning and artficial intelligence concepts.
+I have contributed to tech articles on data science,deep learning and artficial intelligence concepts.
 
 ####GeeksforGeeks,Technical Writer(Freelance)####
 
-October 2018 - PRESENT
+October 2018 - 2020
 
 Contributing compelling technical and programming articles for the website and blog. 
 Working on Wordpress CMS, XML, DITA, SGML.

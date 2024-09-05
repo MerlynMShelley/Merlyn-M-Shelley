@@ -5,14 +5,40 @@
 I am a self-motivated software documentation engineer. I have been into this technical communication industry for about 4 years as an independent freelance professional. I have a rich experience in developing user-centric SEO content and publishing Kindle ebooks.
 
 You can see my proven abilities here,
+## **Live Featured Web Publications**
 
-1.[DazeInfo - 33 articles Live](https://dazeinfo.com/author/merlynm/#) 
+Here are some of my live featured web publications for your review and consideration:
 
-2.[Geeks For Geeks - 39 articles Live](https://auth.geeksforgeeks.org/user/MerlynShelley/articles)
+🔗 [Packt BIPro](https://packtbusinessintelligencepro.substack.com/) [65 Editions]
 
-3.[TechLeer - 10+ articles Live, (Ongoing Project)](https://www.techleer.com/users/Merlyn_Shelley/) 
+🔗 [Packt DataPro](https://packtdatapro1.substack.com/) [102 Editions]
 
-4.[Geeks Gyaan - 10 articles Live](https://www.geeksgyaan.com/author/merlyn)
+🔗 [Packt SecPro](https://security.packt.com/linux-security-hardening/) [Explainer Post]
+
+🔗 [Squadcast](https://www.squadcast.com/blog-authors/merlyn-shelley) [7 Product Blogs]
+  
+🔗 [Squadcast Web Archive](https://web.archive.org/web/20230927010454/https://www.squadcast.com/blog-authors/merlyn-shelley) [9 Blogs]
+
+🔗 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/MerlynShelley/articles) [39 Posts]
+
+🔗 [DazeInfo](https://dazeinfo.com/author/merlynm/#) [60 posts]
+
+🔗 [DZone](https://dzone.com/users/4497573/merlyn-shelley.html) [Explainer Post]
+
+🔗 [Expersight](https://expersight.com/author/merlyn) [2 Tool Comparison Listicles]
+
+🔗 [GeeksGyan](https://www.geeksgyaan.com/author/merlyn) [10 Blog Posts]
+
+🔗 [Qandle](https://blog.qandle.com/2020/08/06/the-ultimate-guide-to-conducting-effective-one-on-one-meetings/) [Explainer Post]
+
+🔗 [Amazon Author Central](https://www.amazon.co.jp/-/en/Merlyn-Shelley/e/B084ZQPTK9?ref_=dbs_p_ebk_r00_abau_000000) [12 Ebooks]
+
+🔗 [TechLeer](https://web.archive.org/web/20200529104524/https://www.techleer.com/users/Merlyn_Shelley/) [11 Articles]
+
+🔗 [Data Analytics Portfolio Projects on Maven](https://mavenanalytics.io/profile/Merlyn-Mark-Shelley/201265881)
+
+🔗 [Data Visualization Projects on Tableau Public](https://public.tableau.com/app/profile/merlyn.shelley/vizzes)
+
 
 I am an **Amazon and Goodreads Author**. Please check here,
 
@@ -22,45 +48,58 @@ I am continuously updating the industry ready software technical writing skills 
 
 **EXPERIENCE**
 
-**1.TechLeer, Malaysia - Technical Writer(Freelance)- Currently pursuing**  
+**Editor in Chief @Packt Publishing Ltd.**
+
+Sep 2021 - PRESENT (Full time - Remote)
+
+Curating and publishing weekly newsletters focused on data science, machine learning, and business intelligence tools and techniques. Additionally, overseeing newsletter monetization through sponsorships.
+
+**Technical Content Writer @Squadcast Labs Pvt Ltd**
+
+Dec 2020 - Sep 2021 (Full time - Remote)
+
+Contributed to technical content, including product documentation, blogs, and marketing materials, focused on site reliability engineering and incident management platform concepts.
+
+
+**TechLeer, Malaysia - Technical Writer(Freelance)- Currently pursuing**  
 
 Contributing tech articles on data science, deep learning and artificial intelligence concepts.
 
-**2.GeeksforGeeks, Noida - Technical Writer(Freelance)**
+**GeeksforGeeks, Noida - Technical Writer(Freelance)**
 
 October 2018 - PRESENT
 
 Contributing compelling technical and programming articles for the website and blog. Working on Wordpress CMS, XML, DITA, SGML. Code the illustration problems with Python3, Java, Javascript, HTML5, CSS3, PHP, NodeJs, ReactJs. Continuously for two years, I have participated in the Technical Scripter event and was awarded GeeksforGeeks goodies. Here is the link to my published byline articles on GeeksforGeeks portal, https://auth.geeksforgeeks.org/user/MerlynShelley/articles
 
-**3.Dazeinfo media and research, Bangalore - Technical Writer & Industry Analyst (Freelance)**
+**Dazeinfo media and research, Bangalore - Technical Writer & Industry Analyst (Freelance)**
 
 In-depth research on the trending technology market scenario and presented SEO data reports on the website. Analyse and curate the data of various technology news articles, evaluate the facts and published online Worked on Wordpress CMS Here is the link to my published byline articles, https://dazeinfo.com/author/merlynm/
 
-**4.Brains Media Solutions, Belgavi  - Technical Writer(Freelance)**
+**Brains Media Solutions, Belgavi  - Technical Writer(Freelance)**
 
 Presented blog content, web content, software documentation projects and product description projects.
 
-**5.Star Agile, Bangalore - Technical Writer(Freelance)**
+**Star Agile, Bangalore - Technical Writer(Freelance)**
 
 Contributed technical SEO writing, Blog writing and Copywriting based on SCRUM, AGILE, SAFe and LEAN methodologies.
 
-**6.Hashtag DMS, New Delhi, - Technical Writer(Freelance)**
+**Hashtag DMS, New Delhi, - Technical Writer(Freelance)**
 
 Contributed technical articles on the website and corporate client companies. Software product documentation, end-user document and website blogs.
 
-**7.DM Linked, New Delhi, - Technical Writer(Freelance)**
+**DM Linked, New Delhi, - Technical Writer(Freelance)**
 
 Contributed technical writing projects on various niches like digital marketing concepts, Software product documentation.
 
-**8.Huntertech Ventures, Bangalore - Technical Writer(Freelance)**
+**Huntertech Ventures, Bangalore - Technical Writer(Freelance)**
 
 Contributed technical SEO content for the website and blog.
 
-**9.Undigit Media Solutions, Bangalore - Technical Writer(Freelance)**
+**Undigit Media Solutions, Bangalore - Technical Writer(Freelance)**
 
 Contributed copy writing and promotional content for the digital marketing industry and it's clients.
 
-**10.Geeks Gyaan, Mumbai - Technical Writer(Freelance)**
+**Geeks Gyaan, Mumbai - Technical Writer(Freelance)**
 
 Contributed How-to guides, trouble shooting guides and technical news content for the blog.
 
